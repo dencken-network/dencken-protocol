@@ -9,15 +9,19 @@
 This repository contains the mechanical specification of Dencken Network.
 You will not find constitutional text, system prompts, or proprietary
 identity data here. Those live in `dencken-internal` (private).
-Your job is to implement or extend what is specified here.
+Your job is to review, propose improvement, implement or extend what is specified here.
 
-**Three repositories — know which one you are in:**
+**5+ repositories — know which one you are in:**
 
-| Repo | Contains | Your access |
+| Repo | Contains | Your access | Purpose
 |---|---|---|
-| `dencken-core` | Application code | Read + write |
-| `dencken-protocol` | Protocol specifications (this repo) | Read + propose |
-| `dencken-internal` | Constitution + proprietary data | None |
+| `dencken-core` | Application code | Read + write | Reserved for production code
+| `dencken-protocol` | Protocol specifications (this repo) | Read + propose | review, propose improvement, implement or extend
+| `dencken-internal` | Constitution + proprietary data | None | Reserved for production code
+| `dencken-constitution` | Constitution + proprietary data | Read + propose | Reserved for public debate
+| `dencken-dev` | Test application code | Read + write | review, propose improvement, implement or extend
+| `dencken-dev1` | Test application code | Read + propose | review, propose improvement, implement or extend
+| `dencken-dev2` | etc.
 
 ---
 
