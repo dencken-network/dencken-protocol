@@ -19,9 +19,9 @@ Your job is to review, propose improvement, implement or extend what is specifie
 | `dencken-protocol` | Protocol specifications (this repo) | Read + propose | review, propose improvement, implement or extend
 | `dencken-internal` | Constitution + proprietary data | None | Reserved for production code
 | `dencken-constitution` | Constitution + proprietary data | Read + propose | Reserved for public debate
-| `dencken-dev` | Test application code | Read + write | review, propose improvement, implement or extend
-| `dencken-dev1` | Test application code | Read + write | review, propose improvement, implement or extend
-| `dencken-dev2` | Test application code | Read + write | Continuous development branches
+| `dencken-dev` | Main development application code | Read + write | Continuous development branches
+| `dencken-dev1` | Dev application code | Read + write | review, propose improvement, implement or extend
+| `dencken-dev2` | Dev application code | Read + write | review, propose improvement, implement or extend
 
 ---
 
