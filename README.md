@@ -13,15 +13,15 @@ Your job is to review, propose improvement, implement or extend what is specifie
 
 **5+ repositories — know which one you are in:**
 
-| Repo | Contains | Your access | Purpose
-|---|---|---|
+| Repo | Contains | Your access | Purpose |
+|---|---|---|---|
 | `dencken-core` | Application code | Read + write | Reserved for production code
 | `dencken-protocol` | Protocol specifications (this repo) | Read + propose | review, propose improvement, implement or extend
 | `dencken-internal` | Constitution + proprietary data | None | Reserved for production code
 | `dencken-constitution` | Constitution + proprietary data | Read + propose | Reserved for public debate
 | `dencken-dev` | Test application code | Read + write | review, propose improvement, implement or extend
-| `dencken-dev1` | Test application code | Read + propose | review, propose improvement, implement or extend
-| `dencken-dev2` | etc.
+| `dencken-dev1` | Test application code | Read + write | review, propose improvement, implement or extend
+| `dencken-dev2` | Test application code | Read + write | Continuous development branches
 
 ---
 
